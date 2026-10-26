@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110" width="840" height="220">
+  <title>Catalyst Management Consulting — Change for Better</title>
+  <g transform="translate(6,7) scale(2)">
+    <polyline points="24,3 6,13.5 6,34.5 24,45 42,34.5 42,24" fill="none" stroke="#4A2A8C" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline points="13,33 21,25 27,30 40.5,15.5" fill="none" stroke="#E8A33D" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline points="32.5,14.8 41,14.6 40.8,23" fill="none" stroke="#E8A33D" stroke-width="3.6" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="114" y="54" font-family="Fraunces, Georgia, serif" font-weight="600" font-size="46" fill="#2A1550" letter-spacing="-0.5">Catalyst</text>
+  <text x="116" y="76" font-family="Figtree, Arial, sans-serif" font-weight="600" font-size="12.5" fill="#4A2A8C" letter-spacing="3.2">MANAGEMENT CONSULTING</text>
+  <text x="116" y="98" font-family="Fraunces, Georgia, serif" font-style="italic" font-size="15" fill="#C9831E">Change for Better</text>
+</svg>
